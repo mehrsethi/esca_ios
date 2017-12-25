@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="COMMENCEZ\nÀ ANALYSER!";
+"EDIT PROFILE"="EDITER LE PROFIL";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ contient les ingrédients suivants qui ne correspondent pas à vos préférences alimentaires- ";
+"View All Ingredients"="Voir Tous Les Ingrédients";
+"Scan Another"="Scannez un Autre";
+
+"This product contains- "="Ce produit contient- ";
+"Back"="Retourner";
+"Home"="Principale";
+
+"Done!"="Fini!";
+
+"Name: "="Prénom: ";
+"Age: "="Âge: ";
+
+"Check any allergies that you have: "="Vérifiez les allergies que vous avez: ";
+"Milk"="Lait";
+"Eggs"="Des œufs";
+"Fish"="Poisson";
+"Crustacean"="Crustacé";
+"Tree nuts"="Noix d'arbre";
+"Peanuts"="Cacahuètes";
+"Wheat"="Blé";
+"Soybeans"="Soja";
+"Rice"="Riz";
+"Garlic"="Ail";
+"Oats"="Avoine";
+"Sulfites"="Sulfites";
+"Gluten"="Gluten";
+
+"Select your diet preference: "="Sélectionnez votre préférence de régime: ";
+
+"Check any chronic medical conditions you have: "="Vérifiez les conditions médicales chroniques que vous avez: ";
+"Diabetes"="Diabète";
+"Kidney diseases"="Maladies rénales";
+"High cholesterol"="Taux de cholestérol élevé";
+"Gout"="Goutte";
+"Celiac disease"="Maladie coeliaque";
+"Lactose intolerance"="Allergique au lait";
+"Osteoporosis"="Ostéoporose";
+
+"Continue"="Continuer";
+"Profile Photo"="Photo de profil";
+
+"OK"="D'accord";
+
+"ovo-vegetarian"="ovo-végétarien";
+"lacto-vegetarian"="lacto-végétarien";
+"vegan"="vegan";
+"vegetarian"="végétarien";
+"No preference"="Pas de préférence";
+
+"Match"="Rencontre";
+"Ingredients"="Ingrédients";
+
+"Not %@"="Pas %@";
+
+"This product is perfect for you!"="Ce produit est parfait pour vous!";

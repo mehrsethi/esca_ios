@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="START\nSCANNING!";
+"EDIT PROFILE"="EDIT PROFILE";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ contains the following ingredients that don't match your dietary preferences- ";
+"View All Ingredients"="View All Ingredients";
+"Scan Another"="Scan Another";
+
+"This product contains- "="This product contains- ";
+"Back"="Back";
+"Home"="Home";
+
+"Done!"="Done!";
+
+"Name: "="Name: ";
+"Age: "="Age: ";
+
+"Check any allergies that you have: "="Check any allergies that you have: ";
+"Milk"="Milk";
+"Eggs"="Eggs";
+"Fish"="Fish";
+"Crustacean"="Crustacean";
+"Tree nuts"="Tree nuts";
+"Peanuts"="Peanuts";
+"Wheat"="Wheat";
+"Soybeans"="Soybeans";
+"Rice"="Rice";
+"Garlic"="Garlic";
+"Oats"="Oats";
+"Sulfites"="Sulfites";
+"Gluten"="Gluten";
+
+"Select your diet preference: "="Select your diet preference: ";
+
+"Check any chronic medical conditions you have: "="Check any chronic medical conditions you have: ";
+"Diabetes"="Diabetes";
+"Kidney diseases"="Kidney diseases";
+"High cholesterol"="High cholesterol";
+"Gout"="Gout";
+"Celiac disease"="Celiac disease";
+"Lactose intolerance"="Lactose intolerance";
+"Osteoporosis"="Osteoporosis";
+
+"Continue"="Continue";
+"Profile Photo"="Profile Photo";
+
+"OK"="OK";
+
+"ovo-vegetarian"="ovo-vegetarian";
+"lacto-vegetarian"="lacto-vegetarian";
+"vegan"="vegan";
+"vegetarian"="vegetarian";
+"No preference"="No preference";
+
+"Match"="Match";
+"Ingredients"="Ingredients";
+
+"Not %@"="Not %@";
+
+"This product is perfect for you!"="This product is perfect for you!";

@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="¡INICIE EL\nESCANEADO!";
+"EDIT PROFILE"="EDITAR PERFIL";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ contiene los siguientes ingredientes que no coinciden con sus preferencias dietéticas- ";
+"View All Ingredients"="Ver Todos Los Ingredientes";
+"Scan Another"="Escanear Otro";
+
+"This product contains- "="Este producto contiene- ";
+"Back"="Regresar";
+"Home"="Principal";
+
+"Done!"="¡Hecho!";
+
+"Name: "="Nombre: ";
+"Age: "="Años: ";
+
+"Check any allergies that you have: "="Verifique cualquier alergia que tenga: ";
+"Milk"="Leche";
+"Eggs"="Huevos";
+"Fish"="Peces";
+"Crustacean"="Crustáceo";
+"Tree nuts"="Nueces de árbol";
+"Peanuts"="Miseria";
+"Wheat"="Trigo";
+"Soybeans"="Soja";
+"Rice"="Arroz";
+"Garlic"="Ajo";
+"Oats"="Avena";
+"Sulfites"="Sulfitos";
+"Gluten"="Gluten";
+
+"Select your diet preference: "="Seleccione su preferencia de dieta: ";
+
+"Check any chronic medical conditions you have: "="Verifique cualquier condición médica crónica que tenga: ";
+"Diabetes"="Diabetes";
+"Kidney diseases"="Enfermedades renales";
+"High cholesterol"="Colesterol alto";
+"Gout"="Gota";
+"Celiac disease"="Enfermedad celíaca";
+"Lactose intolerance"="Intolerancia a la lactosa";
+"Osteoporosis"="Osteoporosis";
+
+"Continue"="Continuar";
+"Profile Photo"="Foto de Perfil";
+
+"OK"="Bueno";
+
+"ovo-vegetarian"="ovo-vegetariano";
+"lacto-vegetarian"="lacto-vegetariano";
+"vegan"="vegano";
+"vegetarian"="vegetariano";
+"No preference"="Sin preferencias";
+
+"Match"="Partido";
+"Ingredients"="Ingredientes";
+
+"Not %@"="No %@";
+
+"This product is perfect for you!"="¡Este producto es perfecto para ti!";

@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="शुरू\nस्कैनिंग!";
+"EDIT PROFILE"="प्रोफाइल एडिट करें";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ में निम्न सामग्रियां हैं जो आपके आहार प्राथमिकताओं से मेल नहीं खाती हैं- ";
+"View All Ingredients"="सभी सामग्री देखें";
+"Scan Another"="एक और स्कैन करें";
+
+"This product contains- "="इस उत्पाद में- ";
+"Back"="वापस";
+"Home"="मुख्य";
+
+"Done!"="ख़त्म!";
+
+"Name: "="नाम: ";
+"Age: "="आयु: ";
+
+"Check any allergies that you have: "="आपके पास किसी भी एलर्जी की जांच करें: ";
+"Milk"="दूध";
+"Eggs"="अंडे";
+"Fish"="मछली";
+"Crustacean"="क्रस्टासेन";
+"Tree nuts"="वृक्ष नट";
+"Peanuts"="मूंगफली";
+"Wheat"="गेहूँ";
+"Soybeans"="सोयाबीन";
+"Rice"="चावल";
+"Garlic"="लहसुन";
+"Oats"="जई";
+"Sulfites"="सल्फाइट्स";
+"Gluten"="ग्लूटेन";
+
+"Select your diet preference: "="अपना आहार वरीयता चुनें: ";
+
+"Check any chronic medical conditions you have: "="आपके पास किसी भी पुरानी चिकित्सा शर्तों की जांच करें: ";
+"Diabetes"="मधुमेह";
+"Kidney diseases"="गुर्दा रोग";
+"High cholesterol"="उच्च कोलेस्ट्रॉल";
+"Gout"="गाउट";
+"Celiac disease"="सीलिएक रोग";
+"Lactose intolerance"="लैक्टोज असहिष्णुता";
+"Osteoporosis"="ऑस्टियोपोरोसिस";
+
+"Continue"="अगला";
+"Profile Photo"="प्रोफाइल फोटो";
+
+"OK"="ठीक";
+
+"ovo-vegetarian"="ओवो-शाकाहारी";
+"lacto-vegetarian"="लैक्टो-शाकाहारी";
+"vegan"="शुद्ध शाकाहारी";
+"vegetarian"="शाकाहारी";
+"No preference"="कोई वरीयता नहीं";
+
+"Match"="मैच";
+"Ingredients"="सामग्री";
+
+"Not %@"="%@ नहीं";
+
+"This product is perfect for you!"="यह उत्पाद आपके लिए बिल्कुल सही है!";

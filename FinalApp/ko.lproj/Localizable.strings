@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="스캐닝을\n시작하십시오!";
+"EDIT PROFILE"="프로필 수정";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ 선호도와 일치하지 않는 다음 성분이 들어 있습니다- ";
+"View All Ingredients"="모든 성분보기";
+"Scan Another"="다른 스캔";
+
+"This product contains- "="이 제품에는 다음이 포함되어 있습니다- ";
+"Back"="뒤로";
+"Home"="본관";
+
+"Done!"="끝난!";
+
+"Name: "="이름: ";
+"Age: "="나이: ";
+
+"Check any allergies that you have: "="가지고있는 알레르기가 있는지 확인하십시오- ";
+"Milk"="우유";
+"Eggs"="달걀";
+"Fish"="물고기";
+"Crustacean"="갑각류";
+"Tree nuts"="견과류";
+"Peanuts"="땅콩";
+"Wheat"="밀";
+"Soybeans"="콩";
+"Rice"="밥";
+"Garlic"="마늘";
+"Oats"="귀리";
+"Sulfites"="아황산염";
+"Gluten"="글루텐";
+
+"Select your diet preference: "="당신의 규정 식 특혜를 선정하십시오: ";
+
+"Check any chronic medical conditions you have: "="만성 질환이 있는지 확인하십시오: ";
+"Diabetes"="당뇨병";
+"Kidney diseases"="신장 질환";
+"High cholesterol"="고 콜레스테롤";
+"Gout"="통풍";
+"Celiac disease"="체강 질병";
+"Lactose intolerance"="락토스 불내성";
+"Osteoporosis"="골다공증";
+
+"Continue"="잇다";
+"Profile Photo"="프로필 사진";
+
+"OK"="승인";
+
+"ovo-vegetarian"="비만 채식주의 자";
+"lacto-vegetarian"="락토 채식주의 자";
+"vegan"="철저한 채식주의자";
+"vegetarian"="채식주의 자";
+"No preference"="선호도 없음";
+
+"Match"="시합";
+"Ingredients"="성분";
+
+"Not %@"="%@ 아니";
+
+"This product is perfect for you!"="이 제품은 당신에게 완벽합니다!";

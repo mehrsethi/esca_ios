@@ -1,0 +1,132 @@
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "0pr-2A-KrT"; */
+"0pr-2A-KrT.title" = "Settings";
+
+/* Class = "UILabel"; text = "Garlic"; ObjectID = "4gv-hx-eNL"; */
+"4gv-hx-eNL.text" = "Garlic";
+
+/* Class = "UILabel"; text = "Gluten"; ObjectID = "6rO-bN-tWV"; */
+"6rO-bN-tWV.text" = "Gluten";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "7si-8H-Fur"; */
+"7si-8H-Fur.title" = "Home";
+
+/* Class = "UILabel"; text = "Check any chronic medical conditions you have:"; ObjectID = "8pE-f7-66N"; */
+"8pE-f7-66N.text" = "Check any chronic medical conditions you have:";
+
+/* Class = "UILabel"; text = "Eggs"; ObjectID = "9Fz-eV-6zX"; */
+"9Fz-eV-6zX.text" = "Eggs";
+
+/* Class = "UITabBarItem"; title = "Ingredients"; ObjectID = "AVx-aa-Pwe"; */
+"AVx-aa-Pwe.title" = "Ingredients";
+
+/* Class = "UILabel"; text = "Crustacean"; ObjectID = "DxL-YY-Xji"; */
+"DxL-YY-Xji.text" = "Crustacean";
+
+/* Class = "UILabel"; text = "Gout"; ObjectID = "GBo-2x-aSA"; */
+"GBo-2x-aSA.text" = "Gout";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "GGC-VS-aND"; */
+"GGC-VS-aND.text" = "Age";
+
+/* Class = "UILabel"; text = "Fish"; ObjectID = "HbB-mg-VcP"; */
+"HbB-mg-VcP.text" = "Fish";
+
+/* Class = "UIButton"; normalTitle = "Scan Another"; ObjectID = "IxT-Wr-NIu"; */
+"IxT-Wr-NIu.normalTitle" = "Scan Another";
+
+/* Class = "UILabel"; text = "Tartrazine"; ObjectID = "Jmc-N7-meJ"; */
+"Jmc-N7-meJ.text" = "Tartrazine";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "KOg-si-twG"; */
+"KOg-si-twG.text" = "Name";
+
+/* Class = "UILabel"; text = "Lactose Intolerance"; ObjectID = "KWU-bl-B32"; */
+"KWU-bl-B32.text" = "Lactose Intolerance";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "NMh-Ql-f4K"; */
+"NMh-Ql-f4K.text" = "Edit Profile";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "PE1-WQ-gg6"; */
+"PE1-WQ-gg6.text" = "Milk";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "PM8-iC-s15"; */
+"PM8-iC-s15.title" = "Home";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "QIz-GK-i9d"; */
+"QIz-GK-i9d.title" = "Settings";
+
+/* Class = "UILabel"; text = "High Cholesterol"; ObjectID = "QK9-1N-9Mq"; */
+"QK9-1N-9Mq.text" = "High Cholesterol";
+
+/* Class = "UILabel"; text = "Diabetes"; ObjectID = "RWl-vG-aRU"; */
+"RWl-vG-aRU.text" = "Diabetes";
+
+/* Class = "UILabel"; text = "Oats"; ObjectID = "ScE-Vg-Coh"; */
+"ScE-Vg-Coh.text" = "Oats";
+
+/* Class = "UILabel"; text = "Check any allergies that you have: "; ObjectID = "T13-yp-EKn"; */
+"T13-yp-EKn.text" = "Check any allergies that you have: ";
+
+/* Class = "UILabel"; text = "Celiac Disease"; ObjectID = "UiU-fh-BG4"; */
+"UiU-fh-BG4.text" = "Celiac Disease";
+
+/* Class = "UILabel"; text = "Balsam of Peru"; ObjectID = "VSr-kU-2ln"; */
+"VSr-kU-2ln.text" = "Balsam of Peru";
+
+/* Class = "UILabel"; text = "Osteoporosis"; ObjectID = "WrY-Je-7yq"; */
+"WrY-Je-7yq.text" = "Osteoporosis";
+
+/* Class = "UILabel"; text = "Peanuts"; ObjectID = "X7U-b9-WCn"; */
+"X7U-b9-WCn.text" = "Peanuts";
+
+/* Class = "UILabel"; text = "Soybeans"; ObjectID = "ZAm-7n-oce"; */
+"ZAm-7n-oce.text" = "Soybeans";
+
+/* Class = "UILabel"; text = "Sulfites"; ObjectID = "afB-yK-PaM"; */
+"afB-yK-PaM.text" = "Sulfites";
+
+/* Class = "UILabel"; text = "Kidney Diseases"; ObjectID = "cnB-nd-cBT"; */
+"cnB-nd-cBT.text" = "Kidney Diseases";
+
+/* Class = "UILabel"; text = "Choose your preferred language"; ObjectID = "f9u-FL-Mmk"; */
+"f9u-FL-Mmk.text" = "Choose your preferred language";
+
+/* Class = "UILabel"; text = "Wheat"; ObjectID = "h0C-94-SEh"; */
+"h0C-94-SEh.text" = "Wheat";
+
+/* Class = "UILabel"; text = "Tree nuts"; ObjectID = "j0v-qz-8Pb"; */
+"j0v-qz-8Pb.text" = "Tree nuts";
+
+/* Class = "UILabel"; text = "This product contains the following ingredients that do not match your diet preferences -"; ObjectID = "j9t-8Z-TUC"; */
+"j9t-8Z-TUC.text" = "This product contains the following ingredients that do not match your diet preferences -";
+
+/* Class = "UILabel"; text = "Select your diet preference:"; ObjectID = "lHY-at-zVC"; */
+"lHY-at-zVC.text" = "Select your diet preference:";
+
+/* Class = "UIButton"; normalTitle = "Start Scanning!"; ObjectID = "mub-c2-mac"; */
+"mub-c2-mac.normalTitle" = "Start Scanning!";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "nnh-lC-ao1"; */
+"nnh-lC-ao1.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "p5y-uF-Lc0"; */
+"p5y-uF-Lc0.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "puU-wf-ClQ"; */
+"puU-wf-ClQ.normalTitle" = "Done";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "wTn-kM-zxA"; */
+"wTn-kM-zxA.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xsS-Yw-GQe"; */
+"xsS-Yw-GQe.title" = "Back";
+
+/* Class = "UITabBarItem"; title = "Match"; ObjectID = "yYs-ZV-stg"; */
+"yYs-ZV-stg.title" = "Match";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "ygw-Gg-OdB"; */
+"ygw-Gg-OdB.title" = "Settings";
+
+/* Class = "UILabel"; text = "Rice"; ObjectID = "zq6-Yl-s14"; */
+"zq6-Yl-s14.text" = "Rice";

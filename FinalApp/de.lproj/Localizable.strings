@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  FinalApp
+
+  Created by Mehr Sethi on 11/27/17.
+  Copyright © 2017 Mehr Sethi. All rights reserved.
+*/
+"START SCANNING!"="SCANNEN\nSTARTEN!";
+"EDIT PROFILE"="PROFIL BEARBEITEN";
+
+"%@ contains the following ingredients that don't match your dietary preferences- "="%@ enthält die folgenden zutaten, die nicht ihren diätvorlieben entsprechen- ";
+"View All Ingredients"="Alle Zutaten Anzeigen";
+"Scan Another"="Scanne Einen Anderen";
+
+"This product contains- "="Dieses produkt enthält- ";
+"Back"="Zurück";
+"Home"="Main";
+
+"Done!"="Erledigt!";
+
+"Name: "="Name: ";
+"Age: "="Alter: ";
+
+"Check any allergies that you have: "="Überprüfen sie alle allergien, die sie haben: ";
+"Milk"="Milch";
+"Eggs"="Eier";
+"Fish"="Fisch";
+"Crustacean"="Krustentier";
+"Tree nuts"="Baumnüsse";
+"Peanuts"="Erdnüsse";
+"Wheat"="Weizen";
+"Soybeans"="Sojabohnen";
+"Rice"="Reis";
+"Garlic"="Knoblauch";
+"Oats"="Hafer";
+"Sulfites"="Sulfite";
+"Gluten"="Gluten";
+
+"Select your diet preference: "="Wählen sie ihre diätvorliebe aus: ";
+
+"Check any chronic medical conditions you have: "="Überprüfen sie alle chronischen krankheiten, die sie haben: ";
+"Diabetes"="Diabetes";
+"Kidney diseases"="Nierenerkrankungen";
+"High cholesterol"="Hoher cholesterinspiegel";
+"Gout"="Gicht";
+"Celiac disease"="Zöliakie";
+"Lactose intolerance"="Laktoseintoleranz";
+"Osteoporosis"="Osteoporose";
+
+"Continue"="Fortsetzen";
+"Profile Photo"="Profilfoto";
+
+"OK"="OK";
+
+"ovo-vegetarian"="ovo-vegetarisch";
+"lacto-vegetarian"="lacto-vegetarisch";
+"vegan"="vegan";
+"vegetarian"="vegetarisch";
+"No preference"="Keine präferenz";
+
+"Match"="Spiel";
+"Ingredients"="Zutaten";
+
+"Not %@"="Nicht %@";
+
+"This product is perfect for you!"="Dieses Produkt ist perfekt für Sie!";
