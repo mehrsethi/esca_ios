@@ -6,6 +6,6 @@ target 'FinalApp' do
   # use_frameworks!
 
   # Pods for FinalApp
-pod 'GoogleMobileVision', '~> 1.1'
+pod 'GoogleMobileVision/BarcodeDetector'
 
 end
